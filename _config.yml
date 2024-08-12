@@ -73,7 +73,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+ lang: "fr"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -162,8 +162,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Centre Hospitalier de Clamecy"
-#     subheading: "Journées Européennes du Patrimoine"
+     heading: "Centre Hospitalier de Clamecy"
+     subheading: "Journées Européennes du Patrimoine"
 #     banner: "Your image url"
 
 # Banner default settings
