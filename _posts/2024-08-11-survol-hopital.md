@@ -2,6 +2,7 @@
 layout: post
 title: Survol du centre hospitalier
 subtitle:
+image: https://bit.ly/3xTmdUP
 categories: example
 tags: [video]
 ---
