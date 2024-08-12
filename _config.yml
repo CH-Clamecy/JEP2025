@@ -160,10 +160,10 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Centre Hospitalier de Clamecy"
-#     subheading: "Journées Européennes du Patrimoine"
+ defaults:
+   home:
+     heading: "Centre Hospitalier de Clamecy"
+     subheading: "Journées Européennes du Patrimoine"
 #     banner: "Your image url"
 
 # Banner default settings
