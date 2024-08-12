@@ -5,6 +5,8 @@ subtitle:
 image: https://bit.ly/3xTmdUP
 categories: example
 tags: [video]
+banner:
+  image: https://bit.ly/3xTmdUP
 ---
 
 Découvrez le centre hospitalier de Clamecy depuis les airs.
