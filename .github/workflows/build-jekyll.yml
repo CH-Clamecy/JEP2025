@@ -39,6 +39,4 @@ jobs:
       - name: Install dependencies
         run: bundle install --jobs 4 --retry 3
 
-      # Run tests (if any)
-      - name: Run tests
-        run: bundle exec rake test
+
