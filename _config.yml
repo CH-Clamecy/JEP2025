@@ -161,9 +161,13 @@ yat:
 
 # Page default value
  defaults:
-   home:
-     heading: "Centre Hospitalier de Clamecy"
-     subheading: "Journées Européennes du Patrimoine"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      home:
+        heading: "Centre Hospitalier de Clamecy"
+        subheading: "Journées Européennes du Patrimoine"
 #     banner: "Your image url"
 
 # Banner default settings
