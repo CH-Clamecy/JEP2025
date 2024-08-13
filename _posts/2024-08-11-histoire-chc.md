@@ -2,6 +2,7 @@
 layout: post
 title: L'histoire du CH Clamecy
 subtitle:
+excerpt_image: "/assets/images/banners/hopital-entree-1950.jpg"
 categories: example
 tags: [histoire]
 ---
