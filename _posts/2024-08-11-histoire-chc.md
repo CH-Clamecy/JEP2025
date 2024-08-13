@@ -17,7 +17,7 @@ Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades fur
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-hospice-1932.jpg)
 
 ![HistoirePhoto2](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-entree-1950.jpg)
-<figcaption>Le centre hospitalier de Clamecy dans les années 1930.</figcaption>
+<figcaption>Le centre hospitalier de Clamecy dans les années 1930.</figcaption> 
  
 L’hôpital se délabre au cours des années. Le Duc de Bellegarde lègue son hôtel, abritant aujourd’hui, le musée de la ville. La conversion de cet hôtel à la cause hospitalière en 1719, permit jusqu’en 1932, l’édification de l’œuvre de bienfaisance, mise en chantier par la sœur Jeanne SIMPOL, en 1693. Les sœurs de la providence sont chargées des soins à donner aux malades.
 
