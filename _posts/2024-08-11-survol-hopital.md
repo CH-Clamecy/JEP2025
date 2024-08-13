@@ -2,7 +2,7 @@
 layout: post
 title: Survol du centre hospitalier
 subtitle:
-excerpt_image: https://github.com/jeffreytse/jekyll-theme-yat/assets/9413601/2ed22d49-90b1-4f7e-8e8f-b77b21dee505
+excerpt_image: "/assets/images/banners/Vue exterieure-2.jpg"
 categories: example
 tags: [video]
 ---
