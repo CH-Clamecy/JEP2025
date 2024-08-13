@@ -2,7 +2,7 @@
 layout: post
 title: Survol du centre hospitalier
 subtitle:
-excerpt_image: "/assets/images/banners/Vue exterieure-2.jpg"
+excerpt_image: "/assets/images/banners/miniature.jpg"
 categories: example
 tags: [video]
 ---
