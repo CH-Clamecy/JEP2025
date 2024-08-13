@@ -15,11 +15,11 @@ Les religieux y pratiquaient surtout la charité, en accueillant les pauvres, à
 
 Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades furent isolés dans des annexes, en lieu et place de l’usine Rhodia.
 
-![HistoirePhoto1](assets/images/hopital-entree-1950.jpg){: .center-block :}
+![HistoirePhoto1](assets/images/hopital-entree-1950.jpg)
 <figcaption>Le centre hospitalier de Clamecy dans les années 1930.</figcaption>
  
 L’hôpital se délabre au cours des années. Le Duc de Bellegarde lègue son hôtel, abritant aujourd’hui, le musée de la ville. La conversion de cet hôtel à la cause hospitalière en 1719, permit jusqu’en 1932, l’édification de l’œuvre de bienfaisance, mise en chantier par la sœur Jeanne SIMPOL, en 1693. Les sœurs de la providence sont chargées des soins à donner aux malades.
 
 L’hôpital que nous connaissons aujourd’hui, route de Beaugy, date de 1932. A l’hôpital-hospice et au pavillon sanatorial se sont ajoutées, en 1968 et en 1984, deux structures pavillonnaires en dur, d’une capacité de 80 lits.
 
-![HistoirePhoto2](/assets/images/hopital-entree.jpg){: .center-block :}
+![HistoirePhoto2](/assets/images/hopital-entree.jpg)
