@@ -19,7 +19,7 @@ En 1693, Jeanne Simpol reprend l’établissement pour y soigner les pauvres mal
 
 En 1719, les bâtiments de Pantenor sont délaissés au profit de l’hôtel bâti pour le Duc de Bellegarde, situé entre la rue de l’Hospice et l’avenue de la République. En 1930, l’établissement comporte 58 lits.
 
-Le terrain, route de Baugy, retenu pour accueillir le nouvel hôpital est choisi en 1913. A partir de 1920, le projet prend forme, mené par les architectes Pineau et Girault, et l’équipement hospitalier est finalement réceptionné en 1932.
+Le terrain, route de Beaugy, retenu pour accueillir le nouvel hôpital est choisi en 1913. A partir de 1920, le projet prend forme, mené par les architectes Pineau et Girault, et l’équipement hospitalier est finalement réceptionné en 1932.
 A l’origine, l’hôpital-hospice comprend un bâtiment principal accueillant les services administratifs, le bloc opératoire et les urgences. Il est constitué d’un pavillon central carré de 5 travées, en pierre meulière, s’élevant sur 3 niveaux et couvert d’une toiture en tuiles plates surmontée d’un lanterneau. Celui-ci est relié symétriquement, de part et d’autre, à deux longs corps de bâtiment d’un seul niveau, par une galerie de 3 travées, fermée de baies.
 Actuellement, seule l’aile gauche, à l’Est, présente encore l’aspect initial de l’établissement : en façade, succession de piliers de pierre de taille, ouvertures avec arc en plein cintre et décors en brique.
 En toiture, l’ensemble des souches de brique et béton assurant la ventilation, a malheureusement disparu.
