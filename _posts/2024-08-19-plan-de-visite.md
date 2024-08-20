@@ -3,7 +3,7 @@ layout: post
 title: Plan de visite
 subtitle:
 excerpt_image: "/assets/images/logo-ght.png"
-categories: example
+categories: plan
 tags: [plan]
 ---
 
