@@ -51,4 +51,4 @@ A l’hôpital-hospice et au pavillon sanatorial se sont ajoutées, en 1968 et e
 ![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-entree.jpg)
 
 <figcaption>Le centre hospitalier de Clamecy aujourd'hui.</figcaption>
-![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/miniature.jpg)
+![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/banners/miniature.jpg)
