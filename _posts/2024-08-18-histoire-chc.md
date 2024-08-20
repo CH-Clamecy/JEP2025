@@ -11,7 +11,8 @@ En 1147, Guillaume III, Comte de Nevers, fonde, pour l'hébergement des pèlerin
 Dans cet hôpital, qui fut d’abord une grange, se rajouta au cours des années une église, un cloître, des chambres, des colombiers, des écuries.
 Les religieux y pratiquaient surtout la charité, en accueillant les pauvres, à qui on distribuait la nourriture.
 
-Illustration de l'hopital de Panténor. ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-pantenor.jpg)
+<figcaption>Illustration de l'hopital de Panténor.</figcaption>
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-pantenor.jpg)
 
 Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades furent isolés dans des annexes, en lieu et place de l’usine Rhodia.
 En 1693, Jeanne Simpol reprend l’établissement pour y soigner les pauvres malades. Jusqu’en 1722, dans sa maison puis dans les anciens bâtiments de l’Hôtel-Dieu de Panténor, elle recueille et soigne, aidée de quelques personnes dévouées, les infirmes et les miséreux.
@@ -28,7 +29,8 @@ En toiture, l’ensemble des souches de brique et béton assurant la ventilation
 A l’arrière du bâtiment, le pavillon central est bordé de deux ailes de 4 travées. Une importante extension datant des années 1970-1980 complète l’aile droite, à l’Ouest.
 Dans le prolongement du corps central, relié par une galerie, on observe un bâtiment s’élevant sur trois niveaux et présentant une toiture terrasse qui abritait initialement les cuisines.
 
-Les jardins et le batiment abritant les cuisines. ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-beaugy-1932.jpg)
+<figcaption>Les jardins et le batiment abritant les cuisines.</figcaption>
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-beaugy-1932.jpg)
 
 Cet ensemble comprend par ailleurs une autre construction indépendante, de plan rectangulaire sur un niveau, implantée dans l’axe du bâtiment principal, qui accueillait « les contagieux » et abrite aujourd’hui la pharmacie.
 Au Nord du site, dans le fond du parc, un dernier édifice, de plan en T, formé de deux corps de bâtiment rectangulaires allongés, implantés perpendiculairement et couverts de tuiles plates mécaniques, complète l’établissement initial en présentant un décor similaire (bandeau de briques et enduit ciment). Il hébergeait à l’origine, pour partie, le sanatorium.
