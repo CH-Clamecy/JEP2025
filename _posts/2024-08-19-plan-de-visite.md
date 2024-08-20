@@ -4,7 +4,7 @@ title: Plan de visite
 subtitle:
 excerpt_image: "/assets/images/plan-de-visite.jpg"
 categories: example
-tags: [histoire]
+tags: [plan]
 ---
 
 Pour vous aider à suivre le sens de la visite, vous trouverez ci-dessous un plan de visite avec les différents points d'intérêts.
