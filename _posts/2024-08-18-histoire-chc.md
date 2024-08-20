@@ -33,7 +33,7 @@ L’hôpital que nous connaissons aujourd’hui, route de Beaugy, date de 1932. 
 
 
 <figcaption>Le  pavillon sanatorial en 1932.</figcaption>
-![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-isolement-1932.jpg)
+![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-1933.jpg)
  
 
 <figcaption>Le centre hospitalier de Clamecy dans les années 1960.</figcaption>
