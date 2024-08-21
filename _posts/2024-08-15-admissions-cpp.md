@@ -20,11 +20,17 @@ Description du service des admissions
 Le centre périnatal de proximité de Clamecy en collaboration avec le service de gynécologie obstétrique du Centre Hospitalier d’Auxerre, assurent les missions suivantes :
   - Pendant la grossess :
     • Suivi de grossesses : consultations, monitorings, conseils, avis spécialisés sur demande médicale.
+    
     • Entretien prénatal précoce du 4e mois.
+    
     • Échographies obstétricales.
+    
     • Cours de préparation à la naissance (classique, relaxation).
+    
     • Consultations Diététiques Personnalisées.
+    
     • Consultations IVG.
+    
     
   - Pendant et après la grossesse :
     • Informations et conseil de puériculture et d'allaitement.
