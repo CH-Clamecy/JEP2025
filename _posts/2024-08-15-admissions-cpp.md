@@ -10,7 +10,7 @@ tags: [service]
 Description du service des admissions
 
 
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)  <div style="text-align: center;">Le hall des admissions.</div>
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)  <center>Le hall des admissions.</center>
 
 
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission2.jpg)  Le hall des admissions
