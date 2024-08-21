@@ -32,7 +32,7 @@ Dans le prolongement du corps central, relié par une galerie, on observe un bâ
 Cet ensemble comprend par ailleurs une autre construction indépendante, de plan rectangulaire sur un niveau, implantée dans l’axe du bâtiment principal, qui accueillait « les contagieux » et abrite aujourd’hui la pharmacie.
 Au Nord du site, dans le fond du parc, un dernier édifice, de plan en T, formé de deux corps de bâtiment rectangulaires allongés, implantés perpendiculairement et couverts de tuiles plates mécaniques, complète l’établissement initial en présentant un décor similaire (bandeau de briques et enduit ciment). Il hébergeait à l’origine, pour partie, le sanatorium.
 
-![HistoirePhoto3](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-isolement-1932.jpg)  Le  pavillon d'isolment des voies respiratoires en 1933.
+![HistoirePhoto3](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-isolement-1932.jpg)  Le  pavillon d'isolement des voies respiratoires en 1933.
 
 ![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-1933.jpg)  Le  pavillon sanatorial en 1932.
 
