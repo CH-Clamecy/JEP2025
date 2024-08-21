@@ -2,7 +2,7 @@
 layout: post
 title: Les admissions et le CPP
 subtitle:
-excerpt_image: "/assets/images/admissions.jpg"
+excerpt_image: "/assets/images/admission.jpg"
 categories: service
 tags: [service]
 ---
