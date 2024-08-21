@@ -176,12 +176,11 @@ defaults:
 #   start_at: 0             # Video start time
 #   image: null             # Image banner source
 #   opacity: 1.0            # Banner opacity (100% is 1.0)
-#   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
+   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
 #   height: "800px"         # Banner default height
 #   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-   subheading_style: 
-     color: gold  # Custom subheading style (e.g. color: gold)
+#   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt settings
 # excerpt:
