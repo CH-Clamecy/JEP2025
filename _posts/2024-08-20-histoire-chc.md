@@ -7,16 +7,16 @@ categories: histoire
 tags: [histoire]
 ---
 
-En 1147, Guillaume III, Comte de Nevers, fonde, pour l'hébergement des pèlerins malades revenant de Terre-Sainte, l’hôpital de Panténor sur la rive droite de l’Yonne, faubourg de Pantenor, quartier actuel Bethléem.
+En 1147, Guillaume III, Comte de Nevers, fonde, pour l'hébergement des pèlerins malades revenant de Terre-Sainte, l’hôpital de Panthénor sur la rive droite de l’Yonne, faubourg de Panthéenor, quartier actuel Bethléem.
 Dans cet hôpital, qui fut d’abord une grange, se rajouta au cours des années une église, un cloître, des chambres, des colombiers, des écuries.
 Les religieux y pratiquaient surtout la charité, en accueillant les pauvres, à qui on distribuait la nourriture.
 
-<figcaption>Illustration de l'hopital de Panténor.</figcaption>
+<figcaption>Illustration de l'hopital de Panthénor.</figcaption>
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-pantenor.jpg)
 
 Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades furent isolés dans des annexes, en lieu et place de l’usine Rhodia.
-En 1693, Jeanne Simpol reprend l’établissement pour y soigner les pauvres malades. Jusqu’en 1722, dans sa maison puis dans les anciens bâtiments de l’Hôtel-Dieu de Panténor, elle recueille et soigne, aidée de quelques personnes dévouées, les infirmes et les miséreux.
-En 1719, les bâtiments de Panténor sont délaissés au profit de l’hôtel bâti pour le Duc de Bellegarde, situé entre la rue de l’Hospice et l’avenue de la République. En 1930, l’établissement comporte 58 lits.
+En 1693, Jeanne Simpol reprend l’établissement pour y soigner les pauvres malades. Jusqu’en 1722, dans sa maison puis dans les anciens bâtiments de l’Hôtel-Dieu de Panthénor, elle recueille et soigne, aidée de quelques personnes dévouées, les infirmes et les miséreux.
+En 1719, les bâtiments de Panthénor sont délaissés au profit de l’hôtel bâti pour le Duc de Bellegarde, situé entre la rue de l’Hospice et l’avenue de la République. En 1930, l’établissement comporte 58 lits.
 
 Le terrain, route de Beaugy, retenu pour accueillir le nouvel hôpital est choisi en 1913. A partir de 1920, le projet prend forme, mené par les architectes Pineau et Girault, et l’équipement hospitalier est finalement réceptionné en 1932.
 A l’origine, l’hôpital-hospice comprend un bâtiment principal accueillant les services administratifs, le bloc opératoire et les urgences. Il est constitué d’un pavillon central carré de 5 travées, en pierre meulière, s’élevant sur 3 niveaux et couvert d’une toiture en tuiles plates surmontée d’un lanterneau. Celui-ci est relié symétriquement, de part et d’autre, à deux longs corps de bâtiment d’un seul niveau, par une galerie de 3 travées, fermée de baies.
