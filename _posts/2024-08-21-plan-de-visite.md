@@ -10,6 +10,6 @@ tags: [plan]
 Pour vous aider à suivre le sens de la visite, vous trouverez ci-dessous un plan de visite avec les différents points d'intérêts.
 
 
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/plan-de-visite.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/plan-de-visite2.jpg)
 
 
