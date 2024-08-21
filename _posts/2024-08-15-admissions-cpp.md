@@ -9,12 +9,13 @@ tags: [service]
 
 Description du service des admissions
 
-<figcaption>Le hall des admissions</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)
+
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)  
+Le hall des admissions
 
 
-<figcaption>Le hall des admissions</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission2.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission2.jpg)  
+Le hall des admissions
 
 
 Le centre périnatal de proximité de Clamecy en collaboration avec le service de gynécologie obstétrique du Centre Hospitalier d’Auxerre, assurent les missions suivantes :
