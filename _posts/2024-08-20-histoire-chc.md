@@ -11,7 +11,6 @@ En 1147, Guillaume III, Comte de Nevers, fonde, pour l'hébergement des pèlerin
 Dans cet hôpital, qui fut d’abord une grange, se rajouta au cours des années une église, un cloître, des chambres, des colombiers, des écuries.
 Les religieux y pratiquaient surtout la charité, en accueillant les pauvres, à qui on distribuait la nourriture.
 
-<figcaption>Illustration de l'hopital de Panthénor.</figcaption>
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-pantenor.jpg)  Illustration de l'hopital de Panthénor
 
 Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades furent isolés dans des annexes, en lieu et place de l’usine Rhodia.
@@ -23,32 +22,24 @@ A l’origine, l’hôpital-hospice comprend un bâtiment principal accueillant 
 Actuellement, seule l’aile gauche, à l’Est, présente encore l’aspect initial de l’établissement : en façade, succession de piliers de pierre de taille, ouvertures avec arc en plein cintre et décors en brique.
 En toiture, l’ensemble des souches de brique et béton assurant la ventilation, a malheureusement disparu.
 
-<figcaption>Le centre hospitalier de Clamecy en 1932.</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-hospice-1932.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-hospice-1932.jpg)  Le centre hospitalier de Clamecy en 1932.
 
 A l’arrière du bâtiment, le pavillon central est bordé de deux ailes de 4 travées. Une importante extension datant des années 1970-1980 complète l’aile droite, à l’Ouest.
 Dans le prolongement du corps central, relié par une galerie, on observe un bâtiment s’élevant sur trois niveaux et présentant une toiture terrasse qui abritait initialement les cuisines.
 
-<figcaption>Les jardins et le batiment abritant les cuisines.</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-beaugy-1932.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-beaugy-1932.jpg)  Les jardins et le batiment abritant les cuisines.
 
 Cet ensemble comprend par ailleurs une autre construction indépendante, de plan rectangulaire sur un niveau, implantée dans l’axe du bâtiment principal, qui accueillait « les contagieux » et abrite aujourd’hui la pharmacie.
 Au Nord du site, dans le fond du parc, un dernier édifice, de plan en T, formé de deux corps de bâtiment rectangulaires allongés, implantés perpendiculairement et couverts de tuiles plates mécaniques, complète l’établissement initial en présentant un décor similaire (bandeau de briques et enduit ciment). Il hébergeait à l’origine, pour partie, le sanatorium.
 
-<figcaption>Le  pavillon d'isolment des voies respiratoires en 1933.</figcaption>
-![HistoirePhoto3](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-isolement-1932.jpg)
+![HistoirePhoto3](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-isolement-1932.jpg)  Le  pavillon d'isolment des voies respiratoires en 1933.
 
-
-<figcaption>Le  pavillon sanatorial en 1932.</figcaption>
-![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-1933.jpg)
+![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-1933.jpg)  Le  pavillon sanatorial en 1932.
 
 D’autres constructions sont venues successivement prendre place sur le site : une maison de retraite en 1968 et des bâtiments pour abriter les services de médecine, chirurgie, maternité, moyen et long séjour, cuisine et self-service en 1984 et 1990.
 On peut noter également, à proximité de l’entrée, à l’Ouest, un édifice inspiré du mouvement du Bauhaus, dédié au logement du personnel. De forme cubique, en béton, avec toiture-terrasse, avancée de brique et coursives, il s’élève sur 4 niveaux et se compose de 8 travées.
 A l’hôpital-hospice et au pavillon sanatorial se sont ajoutées, en 1968 et en 1984, deux structures pavillonnaires en dur, d’une capacité de 80 lits.
 
+![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-entree.jpg)  Le centre hospitalier de Clamecy dans les années 1960.
 
-<figcaption>Le centre hospitalier de Clamecy dans les années 1960.</figcaption>
-![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-entree.jpg)
-
-<figcaption>Le centre hospitalier de Clamecy aujourd'hui.</figcaption>
-![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/banners/miniature.jpg)
+![HistoirePhoto6](https://chclamecy.github.io/jekyll-theme-yat/assets/images/banners/miniature.jpg)  Le centre hospitalier de Clamecy aujourd'hui.
