@@ -47,8 +47,8 @@ Le centre périnatal de proximité de Clamecy en collaboration avec le service d
     
 
 
-<figcaption>Le CPP</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)
+
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)  Le CPP
 
 
 <figcaption>Le CPP</figcaption>
