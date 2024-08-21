@@ -7,7 +7,7 @@ categories: service
 tags: [service]
 ---
 
-Description du service de la pharmacie
+Exceptionnellement, pendant les journées européènnes du patrimoine, la pharmacie est ouverte au public. Venez à la rencontre de l'équipe de la pharmacie pour découvrir leur métier et échanger avec eux.
 
 <figcaption>Le service de la pharmacie</figcaption>
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/pharmacie2.jpg)
