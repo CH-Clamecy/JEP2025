@@ -7,7 +7,7 @@ categories: service
 tags: [service]
 ---
 
-Description du service des résidences Boudard et Simpol.
+Description de l'hélistation.
 
 <figcaption>L'hélistation vue du ciel</figcaption>
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/helistation.jpg)
