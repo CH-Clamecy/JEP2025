@@ -11,7 +11,7 @@ En 1147, Guillaume III, Comte de Nevers, fonde, pour l'hébergement des pèlerin
 Dans cet hôpital, qui fut d’abord une grange, se rajouta au cours des années une église, un cloître, des chambres, des colombiers, des écuries.
 Les religieux y pratiquaient surtout la charité, en accueillant les pauvres, à qui on distribuait la nourriture.
 
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-pantenor.jpg)  <u>Illustration de l'hopital de Panthénor</u>
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-pantenor.jpg)  Illustration de l'hopital de Panthénor.
 
 Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades furent isolés dans des annexes, en lieu et place de l’usine Rhodia.
 En 1693, Jeanne Simpol reprend l’établissement pour y soigner les pauvres malades. Jusqu’en 1722, dans sa maison puis dans les anciens bâtiments de l’Hôtel-Dieu de Panthénor, elle recueille et soigne, aidée de quelques personnes dévouées, les infirmes et les miséreux.
