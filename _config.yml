@@ -180,7 +180,8 @@ defaults:
 #   height: "800px"         # Banner default height
 #   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-   subheading_style: null  # Custom subheading style (e.g. color: gold)
+   subheading_style: 
+     color: gold  # Custom subheading style (e.g. color: gold)
 
 # Excerpt settings
 # excerpt:
