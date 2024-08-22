@@ -9,13 +9,11 @@ tags: [service]
 
 Exceptionnellement, pendant les journées européènnes du patrimoine, la pharmacie est ouverte au public. Venez à la rencontre de l'équipe de la pharmacie pour découvrir leur métier et échanger avec eux.
 
-<figcaption>Le service de la pharmacie</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/pharmacie2.jpg)
+
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/pharmacie2.jpg)  Le service de pharmacie
 
 
-<figcaption>Le service de la pharmacie</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Pharmacie-2.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Pharmacie-2.jpg)  Le service de pharmacie
 
 
-<figcaption>Le service de la pharmacie</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Pharmacie-6.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Pharmacie-6.jpg)  Le service de pharmacie
