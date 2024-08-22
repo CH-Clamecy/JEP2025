@@ -9,9 +9,7 @@ tags: [service]
 
 Description du service des consultations spécialisées
 
-<figcaption>Une salle de consultation</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Salle1CS-2.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Salle1CS-2.jpg)  Une salle de consultation
 
 
-<figcaption>Une salle de consultation</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Salle2CS-1.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Salle2CS-1.jpg)  Une salle de consultation
