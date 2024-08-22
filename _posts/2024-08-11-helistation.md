@@ -9,9 +9,8 @@ tags: [service]
 
 Description de l'hélistation.
 
-<figcaption>L'hélistation vue du ciel</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/helistation.jpg)
+
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/helistation.jpg)  L'hélistation vue du ciel
 
 
-<figcaption>Hélicoptères posés</figcaption>
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/helistation2.jpg)
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/helistation2.jpg)  Deux hélicoptères posés sur l'hélistation
