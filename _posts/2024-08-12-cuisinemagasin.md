@@ -2,7 +2,7 @@
 layout: post
 title: Les cuisines et le magasin
 subtitle:
-excerpt_image: "/assets/images/cuisine.jpg"
+excerpt_image: "/assets/images/magasin.jpg"
 categories: service
 tags: [service]
 ---
