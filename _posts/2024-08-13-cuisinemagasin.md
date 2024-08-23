@@ -7,7 +7,7 @@ categories: service
 tags: [service]
 ---
 
-<u>Les cuisine</u>
+<u>Les cuisines</u>
 
 Le CH de Clamecy a la chance d'avoir une cuisine en interne. Le service des cuisines en lien avec la diététicienne définissent les menus pour les patients, les résidents et pour le personnel de l'établissement.
 Les cuisines produisent en moyenne 300 repas par jour soit environ 110 000 repas par an.
