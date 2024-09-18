@@ -40,6 +40,9 @@ Au Nord du site, dans le fond du parc, un dernier édifice, de plan en T, formé
 ![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/hopital-1933.jpg)  Le  pavillon sanatorial en 1932.
 
 D’autres constructions sont venues successivement prendre place sur le site : une maison de retraite en 1968 et des bâtiments pour abriter les services de médecine, chirurgie, maternité, moyen et long séjour, cuisine et self-service en 1984 et 1990.
+
+![HistoirePhoto4](https://chclamecy.github.io/jekyll-theme-yat/assets/images/construction-hopital-2.jpg)  Construction d'un nouveau batiments pour l'accueil de 80 lits en 1983.
+
 On peut noter également, à proximité de l’entrée, à l’Ouest, un édifice inspiré du mouvement du Bauhaus, dédié au logement du personnel. De forme cubique, en béton, avec toiture-terrasse, avancée de brique et coursives, il s’élève sur 4 niveaux et se compose de 8 travées.
 A l’hôpital-hospice et au pavillon sanatorial se sont ajoutées, en 1968 et en 1984, deux structures pavillonnaires en dur, d’une capacité de 80 lits.
 
