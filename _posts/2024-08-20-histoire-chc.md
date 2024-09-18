@@ -17,7 +17,7 @@ Après la lèpre, apparue au cours de l’année 1582, la peste. Les malades fur
 En 1693, Jeanne Simpol reprend l’établissement pour y soigner les pauvres malades. Jusqu’en 1722, dans sa maison puis dans les anciens bâtiments de l’Hôtel-Dieu de Panthénor, elle recueille et soigne, aidée de quelques personnes dévouées, les infirmes et les miséreux.
 En 1719, les bâtiments de Panthénor sont délaissés au profit de l’hôtel bâti pour le Duc de Bellegarde, situé entre la rue de l’Hospice et l’avenue de la République. En 1930, l’établissement comporte 58 lits.
 
-Le terrain, route de Beaugy, retenu pour accueillir le nouvel hôpital est choisi en 1913. A partir de 1920, le projet prend forme, mené par les architectes Pineau et Girault, et l’équipement hospitalier est finalement réceptionné en 1932.
+Le terrain, route de Beaugy, retenu pour accueillir le nouvel hôpital est choisi en 1913. A partir de 1920, le projet prend forme, mené par les architectes Pineau et Girault, et l’équipement hospitalier est finalement réceptionné en 1932. A cette occasion, le 23 Juillet 1932, la Mairie de Clamecy organise un banquet pour l'inauguration du nouvel Hôpital-Hospice et du Pavillon des Tuberculeux. Cet évènement se déroule à l'époque sous la présidence du Ministre de la Santé Publique M. Justin GODARD.
 
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/Banquet-invitation.jpg)  Communication de la Marie de Clamecy pour l'inauguration du nouvel Hôpital-Hospice et du Pavillon des Tuberculeux.
 
