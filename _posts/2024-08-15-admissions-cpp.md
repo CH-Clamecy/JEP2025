@@ -58,7 +58,7 @@ Le service a déménagé dans de nouveaux locaux au mois de septembre 2024 et so
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/cpp3.jpg)  Le CPP
 
 
-![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/cpp4.jpg)  Le CPP
+![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/cpp4-2.jpg)  Le CPP
 
 
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/cpp5.jpg)  Le CPP
