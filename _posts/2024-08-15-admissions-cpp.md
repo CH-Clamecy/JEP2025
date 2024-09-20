@@ -45,7 +45,8 @@ Le centre périnatal de proximité de Clamecy en collaboration avec le service d
     • Dépôt lactarium.  
     • Consultations diététiques personnalisées.  
     
-En 2023 le CPP a réalisé 2898 consultations.
+En 2023 le CPP a réalisé 2898 consultations. 
+Le service a déménagé dans de nouveaux locaux au mois de septembre 2024 et son inauguration a eu lieu le 19 septembre 2024.
 
 
 ![HistoirePhoto1](https://chclamecy.github.io/jekyll-theme-yat/assets/images/admission1.jpg)  Le CPP
