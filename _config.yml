@@ -242,6 +242,8 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
+  
+include: ['assets']
 
 plugins:
   - jekyll-feed
