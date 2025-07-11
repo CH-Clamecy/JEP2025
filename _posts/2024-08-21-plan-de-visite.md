@@ -7,7 +7,7 @@ categories: plan
 tags: [plan]
 ---
 
-Pour vous aider à suivre le sens de la visite, vous trouverez ci-dessous un plan de visite avec les différents points d'intérêts.
+Pour vous aider à suivre le sens de la visite, vous trouverez ci-dessous un plan de visite avec les différents points d'intérêts. test
 
 
 ![HistoirePhoto1](/JEP2025/assets/images/plan-de-visite2.jpg)
