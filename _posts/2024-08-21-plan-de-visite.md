@@ -2,7 +2,7 @@
 layout: post
 title: Plan de visite
 subtitle:
-excerpt_image: "[/assets/images/logo-ght.png](https://ch-clamecy.github.io/JEP2025/assets/images/logo-ght.png)"
+excerpt_image: "https://ch-clamecy.github.io/JEP2025/assets/images/logo-ght.png"
 categories: plan
 tags: [plan]
 ---
