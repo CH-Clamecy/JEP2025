@@ -2,7 +2,7 @@
 layout: post
 title: Plan de visite
 subtitle:
-excerpt_image: "/assets/images/logo-ght.png"
+excerpt_image: "/assets/images/logoght.png"
 categories: plan
 tags: [plan]
 ---
