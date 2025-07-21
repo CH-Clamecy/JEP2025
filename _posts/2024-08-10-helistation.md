@@ -10,7 +10,7 @@ tags: [service]
 Description de l'hélistation.
 
 
-![HistoirePhoto1](/assets/images/helistation.jpg)  L'hélistation vue du ciel
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/helistation.jpg)  L'hélistation vue du ciel
 
 
-![HistoirePhoto1](/assets/images/helistation2.jpg)  Deux hélicoptères posés sur l'hélistation
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/helistation2.jpg)  Deux hélicoptères posés sur l'hélistation
