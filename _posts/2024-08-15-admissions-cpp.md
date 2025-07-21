@@ -8,7 +8,7 @@ tags: [service]
 ---
 
 <u>Les Admissions</u>  
-Description du service des admissions
+
 
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/admission1.jpg)  Le hall des admissions.
