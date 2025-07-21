@@ -9,7 +9,7 @@ tags: [service]
 
 Description du service des consultations spécialisées
 
-![HistoirePhoto1](/assets/images/Salle1CS-2.jpg)  Une salle de consultation
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/Salle1CS-2.jpg)  Une salle de consultation
 
 
-![HistoirePhoto1](/assets/images/Salle2CS-1.jpg)  Une salle de consultation
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/Salle2CS-1.jpg)  Une salle de consultation
