@@ -58,7 +58,7 @@ Le service a déménagé dans de nouveaux locaux au mois de septembre 2024 et so
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cpp3.jpg)  Une salle de consultation
 
 
-![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cpp4-2.jpg)  L'inauguration du CPP
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/2025cpp.jpg)  Discours de Mme Cornillault, Directrice Générale du GHT lors de l'inauguration des nouveaux locaux du CPP.
 
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cpp5.jpg)  La visite des nouveaux locaux
