@@ -7,7 +7,7 @@ categories: service
 tags: [service]
 ---
 
-Description de l'hélistation.
+
 
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/helistation.jpg)  L'hélistation vue du ciel
