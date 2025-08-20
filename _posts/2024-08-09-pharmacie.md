@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visite de la pharmacie
+title: La pharmacie
 subtitle:
 excerpt_image: "/assets/images/pharmacie1.jpg"
 categories: service
