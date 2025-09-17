@@ -16,6 +16,9 @@ Les cuisines produisent en moyenne 300 repas par jour soit environ 110 000 repas
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cuisine2.jpg)  La zone de préparation chaude
 
 
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/Clamecy-07949.jpg)  Un agent de la cuisine
+
+
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cuisine1.jpg)  Le conditionnement des plats avant distribution dans les services
 
 
