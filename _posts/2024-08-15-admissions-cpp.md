@@ -50,14 +50,19 @@ Le centre périnatal de proximité de Clamecy en collaboration avec le service d
 En 2023 le CPP a réalisé 2898 consultations. 
 Le service a déménagé dans de nouveaux locaux au mois de septembre 2024 et son inauguration a eu lieu le 19 septembre 2024.
 
-
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cpp1.jpg)  Les nouveaux locaux du CPP
+
+
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/Clamecy-07757.jpg)  Le secrétariat
 
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cpp2.jpg)  Une salle de consultation
 
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/cpp3.jpg)  Une salle de consultation
+
+
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/Clamecy-07732.jpg)  Réalisation d'une échographie
 
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/2025cpp.jpg)  Discours de Mme Cornillault, Directrice Générale du GHT Unyon, lors de l'inauguration des nouveaux locaux du CPP.
