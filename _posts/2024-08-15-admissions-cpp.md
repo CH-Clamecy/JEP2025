@@ -10,6 +10,8 @@ tags: [service]
 <u>Les Admissions</u>  
 
 
+![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/Clamecy-.jpg)  L'entrée des admissions.
+
 
 ![HistoirePhoto1](https://ch-clamecy.github.io/JEP2025/assets/images/admission1.jpg)  Le hall des admissions.
 
